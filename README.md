@@ -1,7 +1,7 @@
 # carrent
 #### 微信小程序————租车预约
-* 效果展示：
-![carrent](https://github.com/Fatty-Fish/carrent/raw/master/images/1.jpg)
-![carrent](https://github.com/Fatty-Fish/carrent/raw/master/images/2.jpg)
-![carrent](https://github.com/Fatty-Fish/carrent/raw/master/images/3.jpg)
-![carrent](https://github.com/Fatty-Fish/carrent/raw/master/images/4.jpg)
+##### Right to the point -> 效果展示：<br>
+![carrent](https://github.com/Fatty-Fish/carrent/raw/master/images/1.jpg =200) <br>
+![carrent](https://github.com/Fatty-Fish/carrent/raw/master/images/2.jpg =200) <br>
+![carrent](https://github.com/Fatty-Fish/carrent/raw/master/images/3.jpg =200) <br>
+![carrent](https://github.com/Fatty-Fish/carrent/raw/master/images/4.jpg =200) <br>
