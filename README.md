@@ -27,8 +27,13 @@
 <img src = "https://github.com/Fatty-Fish/carrent/raw/master/images/4.jpg" width = "300px" height = "500px" align=center/>
 
  <h4>动态图片展示</h4>
+ 
  点击列表里任一个选项，进入车辆具体信息，回到主页或者进入预订页面选择日期：
+ 
  <img src = "https://github.com/Fatty-Fish/carrent/raw/master/images/1.gif" width = "300px" height = "500px" align=center/>
+ 
  滑动页面顶部轮播图，在搜索框输入：汽车，进入汽车列表，点击价格筛选，从低到高或者从高到低排列。点击一个选项，进入预订页，选择预定时间段：
+ 
  <img src = "https://github.com/Fatty-Fish/carrent/raw/master/images/2.gif" width = "300px" height = "500px" align=center/>
+ 
 </div>
